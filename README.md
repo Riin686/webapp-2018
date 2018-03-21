@@ -2,8 +2,8 @@
 
 ## Avec les technologies suivantes :
 - Babel
--Sass
+- Sass
 - Webpack
--PostCSS
+- PostCSS
 
 ### avec compte git/github.
